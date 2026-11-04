@@ -4,7 +4,7 @@
 
 🌱 喜欢把想法做成看得见、用得上的东西。
 
-📦 开源作品：[juejin-skills](https://github.com/liuleihang/juejin-skills)、[vue-vite-template](https://github.com/liuleihang/vue-vite-template)、[vue-scale-screen](https://github.com/liuleihang/vue-scale-screen)、[hone-components](https://github.com/liuleihang/hone-components)
+📦 开源作品：[juejin-skills](https://github.com/liuleihang/juejin-skills)
 
 ✉️ 邮箱：`474733548@qq.com`
 
